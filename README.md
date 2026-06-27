@@ -21,3 +21,11 @@ Output:
 - Decision Tree Accuracy
 - Random Forest Accuracy
 - Feature Importance values
+
+Interview Questions:
+
+1.What is Bagging?
+Training multiple trees on different random samples and combining their results.
+
+2. How does Random Forest select features?
+It randomly selects a subset of features at each split.
